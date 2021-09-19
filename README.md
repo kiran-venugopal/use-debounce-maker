@@ -1,6 +1,7 @@
 ## useDebounceWrapper
 
 React hook to make a function debounced.
+https://www.npmjs.com/package/use-debounce-maker
 
 ### Usage
 
@@ -25,3 +26,5 @@ export default function Example() {
 | -------- | -------- | -------- | ------- | ------------------------------- |
 | func     | `any`    | `true`   | `null`  | The function to be debounced    |
 | duration | `number` | `false`  | `300`   | duration for the debounce delay |
+
+https://www.npmjs.com/package/use-debounce-maker
