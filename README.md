@@ -19,6 +19,7 @@ export default function Example() {
   return <input onChange={debouncedMyFunc} />;
 }
 ```
+[![View on Codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/s/use-debounce-maker-example-jynyf)
 
 ### Params
 
