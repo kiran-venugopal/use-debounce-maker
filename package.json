@@ -1,6 +1,6 @@
 {
   "name": "use-debounce-maker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "light weight react custom hook to make function debounced",
   "main": "index.js",
   "scripts": {
